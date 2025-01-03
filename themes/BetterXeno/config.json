@@ -1,6 +1,6 @@
 {
   "module": "https://raw.githubusercontent.com/thekingvon/XenoForge/main/themes/BetterXeno/module.dll",
   "description": "minimalistic ui i guess",
-  "icon": "",
+  "icon": "https://raw.githubusercontent.com/thekingvon/XenoForge/refs/heads/main/themes/_common/icon.ico",
   "verified": true
 }
