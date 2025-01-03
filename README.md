@@ -1,2 +1,2 @@
 > [!CAUTION]
-> THIS IS NOT OFFICIAL, THIS IS NOT MADE BY RIZVE, THIS IS MADE BY 2 RETARDS THAT BARELY KNOW WHAT THEY ARE DOING
+> This is not official and is **not** made by Rizve. This project is made by 2 people where one of them requires special education and one of them barely knows what he is doing
