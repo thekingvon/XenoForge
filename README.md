@@ -10,12 +10,12 @@ An amazing theme loader for Xeno packed with 0 features!!!!!
 
 # With such amazing themes that even i can't comprehend them!!!!
 
-<sub>i forgor the name of the themes but yeah</sub>
+<sub>cat</sub>
 <p align="center">
     <img src="https://github.com/thekingvon/XenoForge/blob/main/themes/_common/image%20(1).png">
 </p>
 
-<sub>Another amazing theme</sub>
+<sub>Another amazing theme zeno i think it was</sub>
 <p align="center">
     <img src="https://github.com/thekingvon/XenoForge/blob/main/themes/_common/image%20(2).png">
 </p>
@@ -25,13 +25,6 @@ An amazing theme loader for Xeno packed with 0 features!!!!!
 
 <p align="center">
     <img src="https://github.com/thekingvon/XenoForge/blob/main/themes/_common/pasted-image-thu-may-16-2024-14-02-23-gmt-0300-atlantic-daylight-time-high.png">
-</p>
-
-> [!CAUTION]
-> i like this red thingy also its time for abcdefghijklmnopqrstuvwxyz to head out
-
-<p align="center">
-    <img src="https://github.com/thekingvon/XenoForge/blob/main/themes/_common/saluting-smiley-ANCFHC.jpg">
 </p>
 
 
