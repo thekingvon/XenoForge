@@ -5,7 +5,7 @@
 
 An amazing theme loader for Xeno packed with 0 features!!!!!
 <p align="center">
-    <img src="https://github.com/thekingvon/XenoForge/blob/main/themes/_common/ui.png">
+    <img src="https://github.com/thekingvon/XenoForge/blob/main/themes/_common/UI.png">
 </p>
 
 # With such amazing themes that even i can't comprehend them!!!!
